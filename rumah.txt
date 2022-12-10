@@ -1,0 +1,13 @@
+Harga,Jarak,Transportasi,Buat_perumahan
+murah,dekat,tidak,ya
+sedang,dekat,tidak,ya
+mahal,dekat,tidak,ya
+mahal,jauh,tidak,tidak
+mahal,sedang,tidak,tidak
+sedang,jauh,ada,tidak
+murah,jauh,ada,tidak
+murah,sedang,tidak,ya
+mahal,jauh,ada,tidak
+sedang,sedang,ada,ya
+
+
